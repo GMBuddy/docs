@@ -1,3 +1,3 @@
 # GMBuddy Documentation
 
-Team deliverables and documentaiton.
+Team deliverables and documentation.
